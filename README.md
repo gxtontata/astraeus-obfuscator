@@ -234,8 +234,6 @@ lua test.lua --help
 ---
 
 ## Support & Contact
-
-- **Discord Bot**: [Invite Link](https://discord.com/oauth2/authorize?client_id=1293608330123804682)
 - **Direct Contact**: `shitzusqualo` on Discord for any queries.
 
 If you decide to use or fork Astraeus, please **star the repository** to show your support. It helps a lot!#
