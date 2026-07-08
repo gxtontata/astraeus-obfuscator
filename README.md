@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ff2ed207-c95e-45c3-831f-04a32675dbb5?size=32" alt="Banner Image" />
+  <img src="https://github.com/user-attachments/assets/106afa2b-d0c8-4507-8444-199aeb1ff235" width="260"  alt="Banner Image" />
 </p>
 
 <pre align="center">
@@ -238,6 +238,4 @@ lua test.lua --help
 - **Discord Bot**: [Invite Link](https://discord.com/oauth2/authorize?client_id=1293608330123804682)
 - **Direct Contact**: `shitzusqualo` on Discord for any queries.
 
-If you decide to use or fork Astraeus, please **star the repository** to show your support. It helps a lot!#   a s t r a e u s - o b f u s c a t o r  
- #   a s t r a e u s - o b f u s c a t o r  
- 
+If you decide to use or fork Astraeus, please **star the repository** to show your support. It helps a lot!#
